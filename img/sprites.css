@@ -1,0 +1,28 @@
+.icq-icon, .email-icon, .phone-icon, .skype-icon{
+	background: url(sprites.png) no-repeat;
+}
+
+.icq-icon{
+	background-position: -200px -85px ;
+	width: 26px;
+	height: 26px;
+}
+
+.email-icon{
+	background-position: -200px -119px ;
+	width: 22px;
+	height: 22px;
+}
+
+.phone-icon{
+	background-position: -201px -155px ;
+	width: 24px;
+	height: 23px;
+}
+
+.skype-icon{
+	background-position: -200px -49px ;
+	width: 24px;
+	height: 26px;
+}
+
